@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=200&section=header&text=Zaufany&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Reverse%20Engineer%20%C2%B7%20Security%20Researcher%20%C2%B7%20Embedded%20%26%20AI&descAlignY=60&descSize=18&descColor=00E5FF&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/krol69">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them.;Reverse+engineering+embedded+systems.;Ethical+hacking+%26+offensive+security.;Building+AI-powered+tooling." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=%3E+access+denied.;%3E+you+were+not+supposed+to+find+this.;%3E+everything+has+firmware.;%3E+_" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,17 +16,18 @@
 
 ## `whoami`
 
-```yaml
-identity:    Zaufany
-handle:      krol69
-focus:       Cybersecurity · Automotive · Reverse Engineering
-domains:
-  - Reverse engineering embedded systems & firmware
-  - Ethical hacking / offensive security
-  - Automotive & low-level systems (CAN, JTAG, MCUs)
-  - AI-assisted tooling & development
-mindset:     "If it has firmware, it can be understood."
+```c
+// zaufany@localhost:~$ whoami
+// > permission denied
+
+[ ??? ] i take things apart.
+[ ??? ] some of them are cars.
+[ ??? ] the rest, you don't need to know.
 ```
+
+<div align="center">
+<sub><code>0x5A 0x41 0x55 0x46 0x41 0x4E 0x59</code> · <i>trust is earned</i></sub>
+</div>
 
 ---
 
@@ -108,7 +109,7 @@ mindset:     "If it has firmware, it can be understood."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krol69&label=Profile%20Views&color=00E5FF&style=for-the-badge)
 
-<sub><i>"Security is not a product, but a process." — Bruce Schneier</i></sub>
+<sub><i>if you can read this, you've already stayed too long.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=100&section=footer" width="100%" />
 
