@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zaufany&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Reverse%20Engineer%20%C2%B7%20Security%20Researcher%20%C2%B7%20Embedded%20%26%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=200&section=header&text=Zaufany&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Reverse%20Engineer%20%C2%B7%20Security%20Researcher%20%C2%B7%20Embedded%20%26%20AI&descAlignY=60&descSize=18&descColor=00E5FF&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/krol69">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them.;Reverse+engineering+embedded+systems.;Ethical+hacking+%26+offensive+security.;Building+AI-powered+tooling." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them.;Reverse+engineering+embedded+systems.;Ethical+hacking+%26+offensive+security.;Building+AI-powered+tooling." alt="Typing SVG" />
 </a>
 
 </div>
@@ -71,20 +71,20 @@ mindset:     "If it has firmware, it can be understood."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krol69&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krol69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krol69&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00E5FF&border_color=00E5FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krol69&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00E5FF&border_color=00E5FF&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=krol69&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com?user=krol69&hide_border=true&background=000000&border=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888&stroke=FFFFFF&currStreakNum=FFFFFF" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krol69&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krol69&custom_title=Contribution%20Graph&bg_color=000000&color=FFFFFF&line=00E5FF&point=FFFFFF&title_color=00E5FF&hide_border=true&area=true&area_color=00E5FF" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=krol69&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=krol69&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
@@ -106,10 +106,10 @@ mindset:     "If it has firmware, it can be understood."
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=krol69&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=krol69&label=Profile%20Views&color=00E5FF&style=for-the-badge)
 
 <sub><i>"Security is not a product, but a process." — Bruce Schneier</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=100&section=footer" width="100%" />
 
 </div>
