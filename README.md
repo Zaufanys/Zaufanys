@@ -17,56 +17,78 @@
 ## `whoami`
 
 ```diff
-- SESSION LOGGED · TRACE ACTIVE · DO NOT PROCEED
-! whoami --------------------------------------- permission denied
+@@ IDENTITY ── ACCESS RESTRICTED ──────────────────────── @@
 
-[ ??? ]
-[ ??? ] 
-[ ??? ] 
+$ id
+  uid=1337(zaufany) gid=1337(re) groups=exploit,embedded,automotive
 
++ alias        Zaufany
++ role         Reverse Engineer · Security Researcher
++ domains      embedded · automotive · firmware · offensive-sec
+- location     ███████████████████     [ redacted ]
+- clearance    ███████████████████     [ need-to-know ]
+! status       reading firmware that isn't mine.
 
+# note: this session is being logged.
 ```
 
 <div align="center">
-<sub><code>0x5A 0x41 0x55 0x46 0x41 0x4E 0x59</code> &nbsp;·&nbsp; <i>trust is earned</i></sub>
+<sub><code>0x5A 0x41 0x55 0x46 0x41 0x4E 0x59</code> &nbsp;·&nbsp; <i>trust is earned, never granted</i></sub>
 </div>
 
 ---
 
-## `Arsenal`
+## `arsenal`
 
-**Reverse Engineering & Low-Level**
+`RE // LOW-LEVEL`
 
 ![Ghidra](https://img.shields.io/badge/Ghidra-0B0B0B?style=for-the-badge&logo=ghidra&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-0B0B0B?style=for-the-badge&logoColor=white)
+![radare2](https://img.shields.io/badge/radare2-0B0B0B?style=for-the-badge&logoColor=white)
 ![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-0B0B0B?style=for-the-badge&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-0B0B0B?style=for-the-badge&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-0B0B0B?style=for-the-badge&logo=gnu&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-0B0B0B?style=for-the-badge&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-0B0B0B?style=for-the-badge&logo=qemu&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-0B0B0B?style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/C-0B0B0B?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-0B0B0B?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Offensive Security**
+`OFFENSIVE`
 
 ![Kali](https://img.shields.io/badge/Kali_Linux-0B0B0B?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0B0B0B?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0B0B0B?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0B0B0B?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0B0B0B?style=for-the-badge&logo=wireshark&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-0B0B0B?style=for-the-badge&logoColor=white)
 
-**Embedded & Automotive**
+`EMBEDDED // AUTOMOTIVE`
 
 ![CAN Bus](https://img.shields.io/badge/CAN_Bus-0B0B0B?style=for-the-badge&logoColor=white)
 ![JTAG](https://img.shields.io/badge/JTAG-0B0B0B?style=for-the-badge&logoColor=white)
+![SWD](https://img.shields.io/badge/SWD-0B0B0B?style=for-the-badge&logoColor=white)
+![UART](https://img.shields.io/badge/UART-0B0B0B?style=for-the-badge&logoColor=white)
 ![Firmware](https://img.shields.io/badge/Firmware-0B0B0B?style=for-the-badge&logoColor=white)
+![OpenOCD](https://img.shields.io/badge/OpenOCD-0B0B0B?style=for-the-badge&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-0B0B0B?style=for-the-badge&logo=platformio&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-0B0B0B?style=for-the-badge&logo=rust&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-0B0B0B?style=for-the-badge&logo=arduino&logoColor=white)
 
-**AI & Scripting**
+`AI // SCRIPTING`
 
 ![Python](https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0B0B0B?style=for-the-badge&logo=pytorch&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-0B0B0B?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0B0B0B?style=for-the-badge&logo=gnubash&logoColor=white)
+
+`ENVIRONMENT`
+
+![Linux](https://img.shields.io/badge/Linux-0B0B0B?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0B0B0B?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-0B0B0B?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
 
