@@ -34,11 +34,11 @@ mindset:     "If it has firmware, it can be understood."
 
 **Reverse Engineering & Low-Level**
 
-![Ghidra](https://img.shields.io/badge/Ghidra-A62B24?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-A62B24?style=for-the-badge&logo=ghidra&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-1F1F1F?style=for-the-badge&logoColor=white)
 ![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-000000?style=for-the-badge&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-2D2D2D?style=for-the-badge&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -76,11 +76,29 @@ mindset:     "If it has firmware, it can be understood."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krol69&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com?user=krol69&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krol69&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true&area=true" width="100%" />
 
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=krol69&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+</div>
+
+---
+
+## `contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krol69/krol69/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krol69/krol69/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/krol69/krol69/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
