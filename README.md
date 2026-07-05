@@ -20,9 +20,11 @@
 - SESSION LOGGED · TRACE ACTIVE · DO NOT PROCEED
 ! whoami --------------------------------------- permission denied
 
-[ ??? ] i take things apart.
-[ ??? ] some of them are cars.
-[ ??? ] the rest, you don't need to know.
+[ ??? ]
+[ ??? ] 
+[ ??? ] 
+
+
 ```
 
 <div align="center">
@@ -31,7 +33,7 @@
 
 ---
 
-## `arsenal`
+## `Arsenal`
 
 **Reverse Engineering & Low-Level**
 
@@ -105,7 +107,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krol69&label=TRACED&color=8B0000&style=for-the-badge)
 
-<sub><i>you were warned.</i></sub>
+<sub><i>Why you stalking?.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=100&section=footer" width="100%" />
 
